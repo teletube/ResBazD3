@@ -1,0 +1,30 @@
+body {
+font-family: "Markazi+Text", sans-serif;
+}
+
+.cat{
+	margin-left: 20px;
+	width: 200px;
+}
+
+.svg
+{
+	width:400px;
+	height:200px;
+}
+
+.circle {
+	stroke-width: 3px;
+	stroke: #f7fcb9;
+	fill: #31a354;
+}
+
+.blue-heading {
+  color: blue;
+  font-size: 20px;
+}
+
+.blue-text {
+ color: blue;	
+}
+
